@@ -1,0 +1,228 @@
+<xml>
+<node>
+<Station>UK</Station><URL>http://www.bfbs.com/radio/locations/uk</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/uk_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/uk-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone>+44 1494878354</Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/uk_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/uk_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Radio 2</Station><URL>http://www.bfbs.com/radio/locations/radio-2</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs2.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/r2_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/radio2-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone>+44 1494 878354</Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/radio-2_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/radio2_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Gurkha Radio</Station><URL>http://www.bfbs.com/radio/locations/gurkha-radio</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs3.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/gurkha_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/gurkha-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone></Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/gurkha-radio_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/gurkha_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Afghanistan</Station>
+<URL>http://www.bfbs.com/radio/locations/afghanistan</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs9.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/afghanistan_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/afghanistan-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone>Text +447740377377 Start message with OPS and a space</Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/afghanistan_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/afghanistan_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Brunei</Station><URL>http://www.bfbs.com/radio/locations/brunei</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs10.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/brunei_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/brunei-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone>+673 3223424</Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/brunei_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/brunei_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Canada</Station><URL>http://www.bfbs.com/radio/locations/canada</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs12.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/canada_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/canada-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone>+14035444104</Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/canada_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/canada_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Cyprus</Station><URL>http://www.bfbs.com/radio/locations/cyprus</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs8.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/cyprus_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/cyprus-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone>+357 25278518</Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/cyprus_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/cyprus_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Falkland Islands</Station><URL>http://www.bfbs.com/radio/locations/falkland-islands</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs6.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/falklands_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/falkland-islands-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone>+500 (7) 3003</Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/falkland-islands_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/falklands_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Germany</Station><URL>http://www.bfbs.com/radio/locations/germany</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs5.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/germany_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/germany-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, or if you are experiencing difficulty receiving BFBS or BFBS Radio 2 in your location, then please use the following.</ContactBlurb>
+<Phone>+49 50516064100</Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/germany_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/germany_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Gibraltar</Station><URL>http://www.bfbs.com/radio/locations/gibraltar</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs7.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/gibraltar_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/gibraltar-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone>+350 20055389</Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/gibraltar_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/gibraltar_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Northern Ireland</Station><URL>http://www.bfbs.com/radio/locations/northern-ireland</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs4.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/northern-ireland_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/northern-ireland-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone>+44 2892 266688</Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/northern-ireland_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/northernIreland_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Aldershot</Station><URL>http://www.bfbs.com/radio/locations/aldershot</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs13.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/aldershot_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/aldershot-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone></Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/aldershot_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/aldershotUK_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Blandford</Station><URL>http://www.bfbs.com/radio/locations/blandford</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs14.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/blandford_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/blandford-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone> </Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/blandford_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/blandfordUK_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Brize Norton</Station><URL>http://www.bfbs.com/radio/locations/brize-norton</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs25.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/brize-norton_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/brize-norton-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone> </Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/brize-norton_sq_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/brizeNorton_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Catterick</Station><URL>http://www.bfbs.com/radio/locations/catterick</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs15.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/catterick_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/catterick-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone> </Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/catterick_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/catterickUK_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Colchester</Station><URL>http://www.bfbs.com/radio/locations/colchester</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs16.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/colchester_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/colchester-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone> </Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/colchester_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/colchesterUK_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Edinburgh</Station><URL>http://www.bfbs.com/radio/locations/edinburgh</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs18.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/edinburgh_carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/edinburgh-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone> </Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/edinburgh_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/edinburghUK_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>Salisbury Plain</Station><URL>http://www.bfbs.com/radio/locations/salisbury-plain</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs17.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/salisbury-plain-carousel.png</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/salisbury-plain-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone> </Phone>
+<Thumbnail>http://www.bfbs.com/radio/app_images/salisbury-plain_carousel.jpg</Thumbnail>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/salisburyPlainUK_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>BFBS Beats</Station><URL>http://www.bfbs.com/radio/locations/uk</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs20.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/beats_carousel.jpg</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/beats-carousel-640_302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone>+44 1494878354</Phone>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/beats_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>BFBS Dirt</Station><URL>http://www.bfbs.com/radio/locations/uk</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs22.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/dirt_carousel.jpg</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/dirt-carousel-640_302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone>+44 1494878354</Phone>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/dirt_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>BFBS Rewind</Station><URL>http://www.bfbs.com/radio/locations/uk</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs21.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/rewind_carousel.jpg</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/bfbsrewind-carousel-640_302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone>+44 1494878354</Phone>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/bfbsrewind_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>BFBS Samishran</Station><URL>http://www.bfbs.com/radio/locations/uk</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs23.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/samishran_carousel.jpg</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/samishran-carousel-640_302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone>+44 1494878354</Phone>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/samishran_150x150.png</NewThumbnail>
+</node>
+<node>
+<Station>BFBS Unwind</Station><URL>http://www.bfbs.com/radio/locations/uk</URL>
+<AudioFeed>http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs24.mp3</AudioFeed>
+<StationImage>http://www.bfbs.com/radio/app_images/stations_carousel/unwind_carousel.jpg</StationImage>
+<LargeStationImage>http://www.bfbs.com/radio/app_images/large_carousel/unwind-carousel-640x302.png</LargeStationImage>
+<ContactBlurb>If you want to get in touch with us at BFBS Radio, then please use the following</ContactBlurb>
+<Phone>+44 1494878354</Phone>
+<NewThumbnail>http://www.bfbs.com/radio/app_images/thumbnails/unwindUK_150x150.png</NewThumbnail>
+</node>
+</xml>
